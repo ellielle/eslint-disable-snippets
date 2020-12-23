@@ -40,3 +40,7 @@ Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how 
 - I added a list of rules for things I commonly ignore
 - I _did not_ add hints to `eslint-disable-line` and `eslint-disable-next-line`
   I could... but in practice I use those without rules
+
+## [1.2.1] - 2020-12-23
+### Changed
+- Added hints to `eslint-dsable-line` and `eslint-disable-next-line`

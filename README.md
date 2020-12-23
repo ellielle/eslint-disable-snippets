@@ -1,4 +1,8 @@
-# eslint-disable-snippets
+# eslint-disable-snippets-redux
+Updated fork of [drKnoxy's](https://github.com/drKnoxy/eslint-disable-snippets) extension to provide
+auto-complete support for all snippets.
+<hr>
+
 Includes snippets for ignoring; a block, the current line, or the next line.
 
 1. Start typing `eslint-disable` in a javascript, javascriptreact, or jsx file to trigger the snippet autocomplete.

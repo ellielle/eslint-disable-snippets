@@ -1,9 +1,9 @@
 {
-  "name": "eslint-disable-snippets",
+  "name": "eslint-disable-snippets-redux",
   "displayName": "eslint-disable-snippets",
-  "description": "Simple snippets for disable eslint rules",
-  "version": "1.2.0",
-  "publisher": "drKnoxy",
+  "description": "Simple snippets for disable eslint rules. Updated to provide auto-complete to the other snippets.",
+  "version": "1.2.1",
+  "publisher": "ellielle",
   "engines": {
     "vscode": "^1.12.0"
   },
